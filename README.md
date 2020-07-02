@@ -272,5 +272,5 @@ All (most?)\  of the sounds in iOS 14. Extracted directly from an iPhone 11 Pro 
 [Suspense.caf](/sounds/new/Suspense.caf)\
 [Telegraph.caf](/sounds/new/Telegraph.caf)\
 [Tiptoes.caf](/sounds/new/Tiptoes.caf)\
-[Typewriters.caf](/sounds/new/Typewriters.caf)\ 
+[Typewriters.caf](/sounds/new/Typewriters.caf)\
 [Update.caf](/sounds/new/Update.caf)
