@@ -1,5 +1,5 @@
 # iOS Sounds
-All (most?)   of the sounds in iOS 14. Extracted directly from an iPhone 11 Pro IPSW from Apple.
+All (most?)   of the sounds in iOS 14. Extracted directly from an iOS 14 Beta 1 iPhone 11 Pro IPSW from Apple.
 
 ## Links
 ### Click on a link to play or download that sound.
