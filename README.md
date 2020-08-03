@@ -1,7 +1,7 @@
 # HomePod Sounds
 All (most?) of the sounds from the HomePod. Extracted from [this](https://routinehub.co/shortcut/3419) Siri Shortcut.
 
-## Sounds (coming soon)
+## Sounds
 ### Click on a link to play or download that sound.
 [HomePod Setup Source](https://homepod-sounds.itsnoahevans.co.uk/sounds/homepod-setup-source.m4a)
 
